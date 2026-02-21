@@ -39,17 +39,17 @@ Acuerdo grupal para el semestre – Equipo de Desarrollo de Software 1
 
 - Las reuniones adicionales se agendarán según necesidades del proyecto o emergencias.
 
-- Los problemas, errores o mejoras se reportarán oportunamente mediante GitHub Issues y se discutirán durante las reuniones.
-
-
-
-
-
-
-
-
 - Cada integrante debe asistir a las reuniones o avisar con antelación si no puede participar.
 
-- Se tratará de documentar el código  desde su inicio, con el fin de facilitar su mantenimiento y comprensión por parte de los demás integrantes del equipo.
+- Las urgencias se comunicarán a través del grupo de WhatsApp, es importante reportarlas con una justa anticipación en caso de tener que tomar acción inmediata respecto a los plazos de entrega del proyecto.
 
-- Las eventualidades urgentes se comunicarán a través del grupo de WhatsApp, es importante reportarlas con una justa anticipación en caso de tener que tomar acción inmediata respecto a los plazos de entrega del proyecto.
+- Los problemas, errores o mejoras se reportarán oportunamente mediante GitHub Issues y se discutirán durante las reuniones.
+
+- Cada funcionalidad del proyecto se desarrollará en una rama independiente (`feature/*`, `fix/*`, etc.).
+
+- Antes de integrar cambios a la rama principal (`main`):
+    * se deberán realizar pruebas
+    * se ha de crear un Pull Request, y se ha de revisar que no haya conflictos
+    * se ha de obtener revisión por parte de al menos un integrante del equipo.
+
+- Se tratará de documentar el código  desde su inicio, con el fin de facilitar su mantenimiento y comprensión por parte de los demás integrantes del equipo.
