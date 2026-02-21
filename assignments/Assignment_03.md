@@ -39,5 +39,14 @@ Acuerdo grupal para el semestre – Equipo de Desarrollo de Software 1
 
 - Las reuniones adicionales se agendarán según necesidades del proyecto o emergencias.
 
+- Los problemas, errores o mejoras se reportarán oportunamente mediante GitHub Issues y se discutirán durante las reuniones.
 
+
+
+
+
+
+
+
+- Cada integrante debe asistir a las reuniones o avisar con antelación si no puede participar.
 
