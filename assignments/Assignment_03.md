@@ -24,3 +24,17 @@ Dentro de un equipo de desarrollo de software, me gustaría desempeñar un rol e
 Entre las fortalezas que considero que ya poseo están la responsabilidad con los tiempos de entrega, la disposición para aprender nuevas tecnologías y la capacidad de resolver problemas de manera lógica. Además, suelo adaptarme bien al trabajo en equipo y mantener una actitud colaborativa cuando se presentan dificultades.
 
 Por otro lado, reconozco que debo fortalecer aspectos como la comunicación técnica, especialmente al momento de explicar ideas complejas de forma clara. También quiero mejorar en la gestión del tiempo cuando manejo varias tareas simultáneamente y en la confianza para expresar mis opiniones dentro del equipo. Considero que trabajar en proyectos colaborativos me ayudará a desarrollar estas habilidades y a convertirme en un mejor integrante de equipo.
+
+## Apartado #2 - Compromisos
+
+**Metodología  de trabajo:**
+- Se utilizará un tablero Kanban mediante GitHub Projects para organizar y visualizar el progreso de las tareas.
+
+- Se realizarán mínimo dos reuniones semanales (posibles días: martes, jueves o sábado) con el fin de:
+    * Revisar avances
+    * Resolver bloqueos
+    * Planificar próximas actividades.
+
+- Los problemas, errores o mejoras se reportarán oportunamente mediante GitHub Issues y se discutirán durante las reuniones.
+
+- Cada funcionalidad del proyecto se desarrollará en una rama independiente (`feature/*`, `fix/*`, etc.).
