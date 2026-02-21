@@ -50,3 +50,6 @@ Acuerdo grupal para el semestre – Equipo de Desarrollo de Software 1
 
 - Cada integrante debe asistir a las reuniones o avisar con antelación si no puede participar.
 
+- Se tratará de documentar el código  desde su inicio, con el fin de facilitar su mantenimiento y comprensión por parte de los demás integrantes del equipo.
+
+- Las eventualidades urgentes se comunicarán a través del grupo de WhatsApp, es importante reportarlas con una justa anticipación en caso de tener que tomar acción inmediata respecto a los plazos de entrega del proyecto.
