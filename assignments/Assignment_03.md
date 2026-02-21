@@ -25,16 +25,19 @@ Entre las fortalezas que considero que ya poseo están la responsabilidad con lo
 
 Por otro lado, reconozco que debo fortalecer aspectos como la comunicación técnica, especialmente al momento de explicar ideas complejas de forma clara. También quiero mejorar en la gestión del tiempo cuando manejo varias tareas simultáneamente y en la confianza para expresar mis opiniones dentro del equipo. Considero que trabajar en proyectos colaborativos me ayudará a desarrollar estas habilidades y a convertirme en un mejor integrante de equipo.
 
-## Apartado #2 - Compromisos
+## Apartado #2 - Expectativas y compromisos del grupo
+Acuerdo grupal para el semestre – Equipo de Desarrollo de Software 1
 
 **Metodología  de trabajo:**
-- Se utilizará un tablero Kanban mediante GitHub Projects para organizar y visualizar el progreso de las tareas.
+- Se utilizará un tablero Kanban mediante GitHub Projects/Trello/Jira para organizar y visualizar el progreso de las tareas.
+- Las tareas estarán claramente asignadas a un integrante y con fecha de entrega estimada.
 
-- Se realizarán mínimo dos reuniones semanales (posibles días: martes, jueves o sábado) con el fin de:
+- Se realizarán mínimo dos reuniones semanales con el fin de:
     * Revisar avances
     * Resolver bloqueos
     * Planificar próximas actividades.
 
-- Los problemas, errores o mejoras se reportarán oportunamente mediante GitHub Issues y se discutirán durante las reuniones.
+- Las reuniones adicionales se agendarán según necesidades del proyecto o emergencias.
 
-- Cada funcionalidad del proyecto se desarrollará en una rama independiente (`feature/*`, `fix/*`, etc.).
+
+
