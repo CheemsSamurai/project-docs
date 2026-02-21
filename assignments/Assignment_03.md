@@ -39,5 +39,10 @@ Acuerdo grupal para el semestre – Equipo de Desarrollo de Software 1
 
 - Las reuniones adicionales se agendarán según necesidades del proyecto o emergencias.
 
+- Cada funcionalidad del proyecto se desarrollará en una rama independiente (`feature/*`, `fix/*`, etc.).
 
+- Antes de integrar cambios a la rama principal (`main`):
+    * se deberán realizar pruebas
+    * se ha de crear un Pull Request, y se ha de revisar que no haya conflictos
+    * se ha de obtener revisión por parte de al menos un integrante del equipo.
 
