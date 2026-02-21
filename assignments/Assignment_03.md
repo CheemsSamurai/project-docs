@@ -24,3 +24,38 @@ Dentro de un equipo de desarrollo de software, me gustaría desempeñar un rol e
 Entre las fortalezas que considero que ya poseo están la responsabilidad con los tiempos de entrega, la disposición para aprender nuevas tecnologías y la capacidad de resolver problemas de manera lógica. Además, suelo adaptarme bien al trabajo en equipo y mantener una actitud colaborativa cuando se presentan dificultades.
 
 Por otro lado, reconozco que debo fortalecer aspectos como la comunicación técnica, especialmente al momento de explicar ideas complejas de forma clara. También quiero mejorar en la gestión del tiempo cuando manejo varias tareas simultáneamente y en la confianza para expresar mis opiniones dentro del equipo. Considero que trabajar en proyectos colaborativos me ayudará a desarrollar estas habilidades y a convertirme en un mejor integrante de equipo.
+
+
+Apartado #2 – Expectativas y compromisos del grupo
+
+Acuerdo grupal para el semestre – Equipo de Desarrollo de Software 1
+
+Para garantizar un trabajo colaborativo eficiente y ordenado durante el semestre, nuestro grupo acuerda los siguientes compromisos:
+1️⃣ Organización de tareas y uso del tablero
+
+Usaremos un tablero Kanban en GitHub Projects o Trello para organizar las tareas.
+
+Cada tarea se colocará en To Do, In Progress, Review, Done según su estado.
+
+Las tareas estarán claramente asignadas a un integrante y con fecha de entrega estimada.
+
+Antes de mover una tarea a “Done”, se deberá verificar que cumpla los criterios de aceptación acordados.
+
+2️⃣ Reuniones y sincronizaciones
+
+Tendremos una reunión semanal mínima para revisar avances y ajustar prioridades.
+
+Las reuniones adicionales se agendarán según necesidades del proyecto o emergencias.
+
+Cada integrante debe asistir a las reuniones o avisar con antelación si no puede participar.
+
+3️⃣ Uso de Git/GitHub
+
+Cada integrante trabajará en ramas propias siguiendo la convención:
+other/<nombre_usuario>-assignment_<número>
+
+No se harán cambios directamente en main sin revisión y aprobación.
+
+Antes de hacer merge, se debe revisar que no haya conflictos y probar que los cambios funcionen correctamente.
+
+Se usarán pull requests para integrar cambios al main, con revisión de al menos un compañero.
